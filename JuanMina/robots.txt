@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://juanchito2001.github.io/sitemap.xml
